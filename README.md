@@ -35,10 +35,10 @@ Experience the power of our customized chatbot by interacting with the Jupyter n
 
 **Answer:** Hello Samir! To sum all the costs of a store in Google Sheets, use the SUM function. Follow these steps:
 
-1. Select the cell where you want the sum to appear.
-2. Type "=SUM(" in the cell.
-3. Select the range of cells containing the costs you want to sum.
-4. Close the parentheses ")" and press Enter.
+- Select the cell where you want the sum to appear.
+- Type "=SUM(" in the cell.
+- Select the range of cells containing the costs you want to sum.
+- Close the parentheses ")" and press Enter.
 
 For example, if the costs are in cells A1 to A10, you would enter "=SUM(A1:A10)" in the cell. This will calculate the sum of all the costs in the specified range and display the result in the selected cell.
 
